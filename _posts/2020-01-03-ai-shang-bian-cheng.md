@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "故事 · MIT女孩：不再担心，像个女孩一样爱上编程"
+title:  "不要担心未来"
 image: assets/images/100.jpg
 featured: true
 ---
