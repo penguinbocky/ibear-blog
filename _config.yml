@@ -2,15 +2,15 @@
 baseurl: "/ibear-blog"
 
 # 网页的标题
-title: "Girls Coding Day - CCC"
+title: "少年与棒球"
 # 网站的主标题
-name: "Girls Coding Day - CCC"
+name: "青春少年"
 # 网站副标题
-description: "架起女性与编程的桥梁 - CCC"
+description: "一个少年与他的棒球"
 
 # 分页配置
 # 每页文章数量
-paginate: 9
+paginate: 2
 
 # 其它配置, 可忽略, 无需修改
 permalink: /:title/
